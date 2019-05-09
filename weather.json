@@ -1,0 +1,12 @@
+{
+    "台北市": {
+        "name": "台北市",
+        "weather": "天氣是晴天",
+        "img": "/img/sunny.jpg"
+    },
+    "桃園市": {
+        "name": "桃園市",
+        "weather": "天氣是雨天",
+        "img": "/img/raining.jpg"
+    }
+}
